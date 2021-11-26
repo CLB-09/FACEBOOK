@@ -15,9 +15,9 @@
 
 * `pkg install curl`
 
-* `git clone https://github.com/CLB-09/FACEBOOK.git`
+* `git clone https://github.com/CLB-09/fakeBOOK.git`
 
-* `cd FACEBOOK`
+* `cd fakeBOOK`
 
 * `ls`
 
