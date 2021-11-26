@@ -15,9 +15,9 @@
 
 * `pkg install curl`
 
-* `git clone https://github.com/CLB-09/FB-HACK.git`
+* `git clone https://github.com/CLB-09/FACEBOOK.git`
 
-* `cd FB-HACK`
+* `cd FACEBOOK`
 
 * `ls`
 
