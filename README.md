@@ -25,7 +25,7 @@
 
 * `pip2 install mechanize`
 
-* `python2 KR.py`
+* `python2 FB-HACK.py`
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-CLB--09-green?style=for-the-badge&logo=github)](https://github.com/CLB-09)
