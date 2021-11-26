@@ -1,4 +1,4 @@
-#Note: i Am Not Responsbility !
+#Note: i Am Not Responsbility!
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 
