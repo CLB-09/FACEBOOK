@@ -1,4 +1,4 @@
-#Note: HATI HATI SESI AKUNMU !
+#Note: CLB-09 !
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 
@@ -22,7 +22,7 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 
-logo = '\x1b[1;93m*TOOLS FACEBOOK G0B3Y*\n\x1b[1;93m* \x1b[1;97mTOOLS PRIBADI  \x1b[1;91m: \x1b[1;96mG0B3Y\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mNote \x1b[1;91m: \x1b[1;96mHati-Hati Kena Sesi Akunmu!\n\x1b[0m\n[*] TOOLS PRIBADI BY MR-G0B3Y\n'
+logo = '\x1b[1;93m*TOOLS FACEBOOK CLB-09*\n\x1b[1;93m* \x1b[1;97mTOOLS CLB-09  \x1b[1;91m: \x1b[1;96mCLB-09\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mNote \x1b[1;91m: \x1b[1;96mHati-Abdul Basit Kamboh!\n\x1b[0m\n[*] TOOLS Abdul Basit Kamboh\n'
 
 def tik():
     titik = [
