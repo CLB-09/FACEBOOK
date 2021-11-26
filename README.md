@@ -17,7 +17,7 @@
 
 * `git clone https://github.com/CLB-09/FB-HACK.git`
 
-* `cd FB-HACK
+* `cd FB-HACK`
 
 * `ls`
 
